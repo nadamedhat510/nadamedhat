@@ -184,65 +184,8 @@ def wavelet(data):
     
     
     
-    #m=cD5.ndim
-    #print(m)
-    #coeffsarray = np.array(coeffs)
     
-    #k=coeffsarray.shape
-    #print(k)
-    #print(coeffsarray)
-    #A=numpy.array([[0,1,2,3], [2,3,4]], dtype=object)
-    #A=[[cD1],[cD2],[cD3],[cD4],[cD5]]
-    # Plot histogram of versicolor petal lengths
-    #plt.hist(A)
-    # Show histogram
-    ##plt.show()
-    #m=A.shape
-   
-    
-    #print(A)
-    #n=cD5.shape
-    #print(n)
-    #plt.bar(np.arange(len(cD5)),cD5)
-    
-    
-        #v=coeff_d.shape
-        #print(v)
-        
-
-      #  axarr[ii, 0].plot(data, 'r')
-       # axarr[ii, 1].plot(coeff_d, 'g')
-        #axarr[ii, 0].set_ylabel("Level {}".format(ii + 1), fontsize=14, rotation=90)
-        #axarr[ii, 0].set_yticklabels([])
-        #if ii == 0:
-         #   axarr[ii, 0].set_title("Approximation coefficients", fontsize=14)
-          #  axarr[ii, 1].set_title("Detail coefficients", fontsize=14)
-        #axarr[ii, 1].set_yticklabels([])
-    #plt.tight_layout()
-    #plt.show()
-    
-    #coeffs = pywt.wavedec(data, wavelet='sym5', level=5)
-    #p=coeffs.shape
-    #print(p)
-    #arr, coeff_slices = pywt.coeffs_to_array(coeff_d)
-    #z=coeff_slices.shape
-    #print(z)
-    
-   # return coeff_slices
-       
-       
-
-        #print(d)
-     #   axarr[ii, 0].plot(data, 'r')
-      #  axarr[ii, 1].plot(coeff_d, 'g')
-       # axarr[ii, 0].set_ylabel("Level {}".format(ii + 1), fontsize=14, rotation=90)
-        #axarr[ii, 0].set_yticklabels([])
-        #if ii == 0:
-        #    axarr[ii, 0].set_title("Approximation coefficients", fontsize=14)
-         #   axarr[ii, 1].set_title("Detail coefficients", fontsize=14)
-          #  axarr[ii, 1].set_yticklabels([])
-           # plt.tight_layout()
-           # plt.show()
+  
 
 
 
