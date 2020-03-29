@@ -2,7 +2,6 @@
 """
 Created on Sun Mar 15 17:09:40 2020
 
-@author: Gehan Mohamed
 """
 import pyedflib
 import numpy as np
